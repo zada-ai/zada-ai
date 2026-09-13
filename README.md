@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Sohaib Mehmood 👋</h1>
   <p><strong>Full-Stack Engineer & AI Automation Specialist</strong></p>
-  <p><em>Building Intelligent Chatbots, Automated Pipelines & Modern Web Apps</em></p>
+  <p><em>Building Intelligent Chatbots, RAG Pipelines & Scalable Web Applications</em></p>
 
   <p>
     <a href="https://github.com/zada-ai">
@@ -13,25 +13,28 @@
 ---
 
 ### 💼 Experience & Journey
-- 🏢 **Currently:** AI Automation & Chatbot Engineer at **Invisco Marketing** — building intelligent bots, workflow engines, and conversational AI solutions.
-- 🚀 **Previously:** Full-Stack Developer Intern at **New Vision** & **Bitzsol** — developed web applications, backend APIs, and custom CRM features.
-- 🌐 **Freelance:** Delivered end-to-end full-stack web solutions and database systems.
+- 🏢 **Currently:** AI Automation & Chatbot Engineer at **Invisco Marketing** — building conversational AI agents, RAG-powered assistants, and end-to-end automation workflows.
+- 🚀 **Previously:** Full-Stack Developer Intern at **New Vision** & **Bitzsol** — developed web applications, backend APIs, and custom CRM systems.
+- 🌐 **Freelance:** Built scalable full-stack web platforms, custom workflows, and database architectures.
 
 ---
 
 ### 🚀 What I Do
-- 🤖 **AI & Automation:** Custom AI Chatbots, conversational flows, and webhook integrations with **n8n**.
-- 💻 **Full-Stack Engineering:** Scalable systems using **Laravel, PHP, Next.js, React & Node.js**.
-- ☁️ **Cloud & Architecture:** Deployments and pipeline architecture via **AWS, Docker, Supabase & PostgreSQL**.
+- 🤖 **AI & RAG Systems:** Retrieval-Augmented Generation (RAG) pipelines, context-aware chatbot agents, and vector databases.
+- ⚡ **Workflow Automation:** Complex workflow orchestration, webhook handlers, and multi-service integrations using **n8n**.
+- 💻 **Full-Stack Engineering:** Scalable systems and modern web interfaces using **Laravel, PHP, Next.js, React & Node.js**.
+- ☁️ **Cloud & Infrastructure:** Cloud hosting, containerization, and databases via **AWS, Docker, Supabase & PostgreSQL**.
 
 ---
 
 ### 🛠️ Tech & Tools
 
-**AI & Workflow Automation**
+**AI, RAG & Automation**
 <p align="left">
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-FF6F61?style=for-the-badge&logo=probot&logoColor=white" alt="RAG Pipelines" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/OpenAI%20/%20LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI & LLMs" />
+  <img src="https://img.shields.io/badge/OpenAI%20/%20LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI & LLMs" />
+  <img src="https://img.shields.io/badge/Vector%20Search-008080?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector Search" />
   <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Webhooks" />
 </p>
 
@@ -45,7 +48,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
-**Cloud, Database & DevOps**
+**Cloud, Databases & DevOps**
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
